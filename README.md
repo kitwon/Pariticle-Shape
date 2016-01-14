@@ -1,2 +1,2 @@
-# Pariticle-Shape
-Pariticle-Shape create by canvas
+# Particle-Shape
+Particle-Shape create with canvas
